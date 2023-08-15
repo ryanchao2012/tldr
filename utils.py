@@ -24,8 +24,7 @@ def main():
 )
 @click.option("--drops", "-d", multiple=True, help="Fields to drop, multi-values.")
 def csv2md(title, csv, links, drops):
-    """Generate paper list into markdown format from a given spreadsheet"""
-    ...
+    """Generate paper list into markdown format from a spreadsheet"""
 
     df = pd.read_csv(csv).fillna("")
     if drops:
