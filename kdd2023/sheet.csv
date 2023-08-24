@@ -39,7 +39,7 @@ ADS,,Graph Learning I,,Evolve Path Tracer: Early Detection of Malicious Addresse
 ADS,,Graph Learning I,,A Look into Causal Effects under Entangled Treatment in Graphs: Investigating the Impact of Contact on MRSA Infection,https://arxiv.org/pdf/2307.08237.pdf,,,,
 ADS,,Graph Learning I,,Robust Multimodal Failure Detection for Microservice Systems,https://arxiv.org/pdf/2305.18985.pdf,,,,China
 ADS,,Multi-Scenario and Multi-Task,,Hierarchical Projection Enhanced Multi-behavior Recommendation,https://dl.acm.org/doi/pdf/10.1145/3580305.3599838,,,Huawei Noah’s Ark Lab,China
-ADS,,Multi-Scenario and Multi-Task,,Improving Training Stability for Multitask Ranking Models in Recommender Systems,https://arxiv.org/pdf/2302.09178.pdf,,,Google Deepmind,USA
+ADS,,Multi-Scenario and Multi-Task,Best Paper Award,Improving Training Stability for Multitask Ranking Models in Recommender Systems,https://arxiv.org/pdf/2302.09178.pdf,,,Google Deepmind,USA
 ADS,,Multi-Scenario and Multi-Task,,Scenario-Adaptive Feature Interaction for Click-Through Rate Prediction,https://dl.acm.org/doi/pdf/10.1145/3580305.3599936,,,Tencent,China
 ADS,,Multi-Scenario and Multi-Task,,AdaTT: Adaptive Task-to-Task Fusion Network for Multitask Learning in Recommendations,https://arxiv.org/pdf/2304.04959.pdf,,,Meta AI,USA
 ADS,,Multi-Scenario and Multi-Task,,Macular: a Multi-Task Adversarial Framework for Cross-Lingual Natural Language Understanding,,,,,
@@ -81,7 +81,7 @@ ADS,,Search Engine,,Optimizing Airbnb Search Journey with Multi-Task Learning,ht
 ADS,,Search Engine,,Towards Disentangling Relevance and Bias in Unbiased Learning to Rank,https://arxiv.org/pdf/2212.13937.pdf,,,Google Research,USA
 ADS,,Search Engine,,Balancing Approach for Causal Inference at Scale,,,,,
 ADS,,Search Engine,,RankFormer: Listwise Learning-to-Rank using Listwide Labels,https://arxiv.org/pdf/2306.05808.pdf,,,Amazon,USA
-ADS,,Search Engine,,S2phere: Semi-Supervised Pre-training for Web Search over Heterogeneous Learning to Rank Data,,,https://www.youtube.com/watch?v=_Khb0rKdaL0,Baidu Inc,
+ADS,,Search Engine,,S2phere: Semi-Supervised Pre-training for Web Search over Heterogeneous Learning to Rank Data,https://dl.acm.org/doi/pdf/10.1145/3580305.3599935,,https://www.youtube.com/watch?v=_Khb0rKdaL0,Baidu Inc,China
 ADS,,Search Engine,,"Web-Scale Academic Name Disambiguation: the WhoIsWho Benchmark, Leaderboard, and Toolkit",https://arxiv.org/pdf/2302.11848.pdf,,,Zhipu.AI,China
 ADS,,Graph Learning III,,MIDLG: Mutual Information based Dual Level GNN for Transaction Fraud Complaint Verification,,,,,
 ADS,,Graph Learning III,,Removing Camouflage and Revealing Collusion: Leveraging Gang-Crime Pattern in Fraudster Detection,,,,,
@@ -101,7 +101,7 @@ ADS,,Social Media,,TwHIN-BERT: A Socially-Enriched Pre-trained Language Model fo
 ADS,,Social Media,,Fair Multilingual Vandalism Detection System for Wikipedia,,,,,
 ADS,,Social Media,,Analysis of COVID-19 Offensive Tweets and Their Targets,,,,,
 ADS,,Social Media,,SMILE: Evaluation and Domain Adaptation for Social Media Language Understanding,,,,,
-ADS,,Social Media,,Constrained Social Community Recommendation,,,,,
+ADS,,Social Media,,Constrained Social Community Recommendation,https://dl.acm.org/doi/pdf/10.1145/3580305.3599793,,,Tencent,China
 ADS,,Advertising I,,Off-Policy Learning-to-Bid with AuctionGym,,,https://www.youtube.com/watch?v=YK0SELxAWeo,Amazon,UK
 ADS,,Advertising I,,Multi-Factor Sequential Re-Ranking with Perception-Aware Diversification,https://arxiv.org/pdf/2305.12420.pdf,,,Alibaba Group,
 ADS,,Advertising I,,Joint Optimization of Ranking and Calibration with Contextualized Hybrid Model,https://arxiv.org/pdf/2208.06164.pdf,,,Alibaba Group,
@@ -158,7 +158,7 @@ ADS,,Recommendation Systems III,,"A Lightweight, Efficient and Explainable-by-De
 ADS,,Recommendation Systems III,,Modeling Dual Period-Varying Preferences for Takeaway Recommendation,https://arxiv.org/pdf/2306.04370.pdf,,https://www.youtube.com/watch?v=MOP0dPiepQ0,,
 ADS,,Recommendation Systems III,,SentiGOLD: A Large Bangla Gold Standard Multi-Domain Sentiment Analysis Dataset and its Evaluation,https://arxiv.org/pdf/2306.06147.pdf,,https://www.youtube.com/watch?v=fVDIl42s2hQ,Giga Tech Limited,
 ADS,,Recommendation Systems III,,Empowering Long-Tail Item Recommendation through Cross Decoupling Network,https://arxiv.org/pdf/2210.14309.pdf,,https://www.youtube.com/watch?v=VIowKhao1q0,Google Research,
-ADS,,Recommendation Systems III,,Stationary Algorithmic Balancing Over Dynamic Email Re-Ranking Problem,,,,Microsoft Research,
+ADS,,Recommendation Systems III,,Stationary Algorithmic Balancing Over Dynamic Email Re-Ranking Problem,https://arxiv.org/pdf/2308.08460.pdf,,,Microsoft Research,USA
 ADS,,Recommendation Systems III,,Revisiting Neural Retrieval on Accelerators,https://arxiv.org/pdf/2306.04039.pdf,,https://www.youtube.com/watch?v=BV2O4WmZtac,"Meta Platforms, Inc",
 ADS,,E-Commerce,,Group-based Fraud Detection Network on E-Commerce Platforms,,,,,
 ADS,,E-Commerce,,CADENCE: Offline Category Constrained and Diverse Query Generation for E-Commerce Autosuggest,,,,,
@@ -175,9 +175,9 @@ ADS,,Manufacturing,,Interactive Generalized Additive Model and Its Applications 
 ADS,,Recommendation Systems IV,,Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection,https://dl.acm.org/doi/pdf/10.1145/3580305.3599795,,https://www.youtube.com/watch?v=pLuQ3zE5hv0,,
 ADS,,Recommendation Systems IV,,Fusing Multimodal Signals on Hyper-Complex Space for Extreme Abstractive Text Summarization of Scientific Contents,https://dl.acm.org/doi/pdf/10.1145/3580305.3599830,,,,India
 ADS,,Recommendation Systems IV,,Adaptive Graph Contrastive Learning for Recommendation,https://arxiv.org/pdf/2305.10837.pdf,,,,
-ADS,,Recommendation Systems IV,,BOSS: A Bilateral Occupational-Suitability-Aware Recommender System for Online Recruitment,,,https://www.youtube.com/watch?v=0NaQEG-1KEw,,
-ADS,,Recommendation Systems IV,,Tree-Based Progressive Regression Model for Watch-Time Prediction in Short-Video Recommendation,https://arxiv.org/pdf/2306.03392.pdf,,,Kuaishou Technology,
-ADS,,Recommendation Systems IV,,PIER: Permutation-Level Interest-Based End-to-End Re-Ranking Framework in E-Commerce,https://arxiv.org/pdf/2302.03487.pdf,,,Meituan,
+ADS,,Recommendation Systems IV,,BOSS: A Bilateral Occupational-Suitability-Aware Recommender System for Online Recruitment,https://dl.acm.org/doi/pdf/10.1145/3580305.3599783,,https://www.youtube.com/watch?v=0NaQEG-1KEw,BOSS Zhipin,China
+ADS,,Recommendation Systems IV,,Tree-Based Progressive Regression Model for Watch-Time Prediction in Short-Video Recommendation,https://arxiv.org/pdf/2306.03392.pdf,,,Kuaishou Technology,China
+ADS,,Recommendation Systems IV,,PIER: Permutation-Level Interest-Based End-to-End Re-Ranking Framework in E-Commerce,https://arxiv.org/pdf/2302.03487.pdf,,,Meituan,China
 ADS,,Time-Series and Anomalies,,"DisasterNet: Causal Bayesian Networks with Normalizing Flows for Cascading Hazards Estimation from Satellite Imagery
 ",,,,,
 ADS,,Time-Series and Anomalies,,Interdependent Causal Networks for Root Cause Localization,,,,,
@@ -224,20 +224,20 @@ Research,,Efficient ML,,COMET: Learning Cardinality Constrained Mixture of Exper
 Research,,Efficient ML,,Kernel Ridge Regression-Based Graph Dataset Distillation,,,,,
 Research,,Efficient ML,,Efficient Coreset Selection with Cluster-Based Methods,,,,,
 Research,,Efficient ML,,The Information Pathways Hypothesis: Transformers are Dynamic Self-Ensembles,,,,,
-Research,,Ranking,,Off-Policy Evaluation of Ranking Policies under Diverse User Behavior,,,,,
-Research,,Ranking,,Generative Flow Network for Listwise Recommendation,,,,,
+Research,,Ranking,,Off-Policy Evaluation of Ranking Policies under Diverse User Behavior,https://arxiv.org/pdf/2306.15098.pdf,,https://www.youtube.com/watch?v=9sZA-PGOOyk,Yahoo Japan Corporation,Japan
+Research,,Ranking,,Generative Flow Network for Listwise Recommendation,https://arxiv.org/pdf/2306.02239.pdf,,,Kuaishou,China
 Research,,Ranking,,Rank-heterogeneous Preference Models for School Choice,,,,,
-Research,,Ranking,,Querywise Fair Learning to Rank through Multi-Objective Optimization,,,,,
-Research,,Ranking,,PSLOG: Pretraining with Search Logs for Document Ranking,,,,,
+Research,,Ranking,,Querywise Fair Learning to Rank through Multi-Objective Optimization,https://assets.amazon.science/51/af/6aaba7a748c5a34511500840302e/querywise-fair-learning-to-rank-through-multi-objective-optimization.pdf,,https://www.youtube.com/watch?v=glbK0YzAvek,Amazon,USA
+Research,,Ranking,,PSLOG: Pretraining with Search Logs for Document Ranking,https://dl.acm.org/doi/pdf/10.1145/3580305.3599477,,https://www.youtube.com/watch?v=useEOktyE9E,,China
 Research,,Graph Mining I,,Reducing Exposure to Harmful Content via Graph Rewiring,,,,,
 Research,,Graph Mining I,,Efficient Approximation Algorithms for Spanning Centrality,,,,,
 Research,,Graph Mining I,,A Higher-Order Temporal H-Index for Evolving Networks,,,,,
 Research,,Graph Mining I,,Quantifying Node Importance over Network Structural Stability,,,,,
 Research,,Graph Mining I,,Efficient Centrality Maximization with Rademacher Averages,,,,,
-Research,,Graph Mining I,,Accelerating Personalized PageRank Vector Computation,,,,,
+Research,,Graph Mining I,,Accelerating Personalized PageRank Vector Computation,https://arxiv.org/pdf/2306.02102.pdf,,https://www.youtube.com/watch?v=Z7SAQBepByE,,
 Research,,Social Computing,,Community-based Dynamic Graph Learning for Popularity Prediction,,,,,
 Research,,Social Computing,,"Fair Allocation Over Time, with Applications to Content Moderation",,,,,
-Research,,Social Computing,,A Sublinear Time Algorithm for Opinion Optimization in Directed Social Networks via Edge Recommendation,,,,,
+Research,,Social Computing,,A Sublinear Time Algorithm for Opinion Optimization in Directed Social Networks via Edge Recommendation,https://dl.acm.org/doi/pdf/10.1145/3580305.3599247,,,,
 Research,,Social Computing,,Planning to Fairly Allocate: Probabilistic Fairness in the Restless Bandit Setting,,,,,
 Research,,Social Computing,,How Transitive Are Real-World Group Interactions? Measurement and Reproduction,,,,,
 Research,,Social Computing,,Predicting Information Pathways Across Online Communities,,,,,
@@ -304,15 +304,15 @@ Research,,Expressiveness of Graph Neural Network,,A Message Passing Neural Netwo
 Research,,Expressiveness of Graph Neural Network,,On Structural Expressive Power of Graph Transformers,,,,,
 Research,,Expressiveness of Graph Neural Network,,MGNN: Graph Neural Networks Inspired by Distance Geometry Problem,,,,,
 Research,,Expressiveness of Graph Neural Network,,Improving Expressivity of GNNs with Subgraph-specific Factor Embedded Normalization,,,,,
-Research,,Recommendation Systems,,Text Is All You Need: Learning Language Representations for Sequential Recommendation,,,,,
-Research,,Recommendation Systems,,MAP: A Model-agnostic Pretraining Framework for Click-Through Rate Prediction,,,,,
-Research,,Recommendation Systems,,Cognitive Evolutionary Search to Select Feature Interactions for Click-Through Rate Prediction,,,,,
-Research,,Recommendation Systems,,PrefRec: Recommender Systems with Human Preferences for Reinforcing Long-Term User Engagement,,,,,
-Research,,Recommendation Systems,,Efficient Bi-Level Optimization for Recommendation Denoising,,,,,
-Research,,Recommendation Systems,,Adaptive Disentangled Transformer for Sequential Recommendation,,,,,
+Research,,Recommendation Systems,,Text Is All You Need: Learning Language Representations for Sequential Recommendation,https://arxiv.org/pdf/2305.13731.pdf,,https://www.youtube.com/watch?v=86bobo4PC6Q,Amazon,USA
+Research,,Recommendation Systems,,MAP: A Model-agnostic Pretraining Framework for Click-Through Rate Prediction,https://arxiv.org/pdf/2308.01737.pdf,,https://www.youtube.com/watch?v=17Ly42c17Fo,Huawei Noah’s Ark Lab,China
+Research,,Recommendation Systems,,Cognitive Evolutionary Search to Select Feature Interactions for Click-Through Rate Prediction,https://dl.acm.org/doi/pdf/10.1145/3580305.3599277,,,,China
+Research,,Recommendation Systems,,PrefRec: Recommender Systems with Human Preferences for Reinforcing Long-Term User Engagement,https://arxiv.org/pdf/2212.02779,,https://www.youtube.com/watch?v=9AdmwNf28aM,Kuaishou,China
+Research,,Recommendation Systems,,Efficient Bi-Level Optimization for Recommendation Denoising,https://arxiv.org/pdf/2210.10321.pdf,,https://www.youtube.com/watch?v=UKdtKLBL9s0,,China
+Research,,Recommendation Systems,,Adaptive Disentangled Transformer for Sequential Recommendation,https://dl.acm.org/doi/pdf/10.1145/3580305.3599253,,https://www.youtube.com/watch?v=QshLvKZQAtE,Tsinghua University,China
 Research,,Graph Neural Networks,,Learning Strong Graph Neural Networks with Weak Information,,,,,
 Research,,Graph Neural Networks,,Clenshaw Graph Neural Networks,,,,,
-Research,,Graph Neural Networks,,All in One: Multi-Task Prompting for Graph Neural Networks,,,,,
+Research,,Graph Neural Networks,Best Paper Award,All in One: Multi-Task Prompting for Graph Neural Networks,,,,,
 Research,,Graph Neural Networks,,Certified Edge Unlearning for Graph Neural Networks,,,,,
 Research,,Graph Neural Networks,,Augmenting Recurrent Graph Neural Networks with a Cache,,,,,
 Research,,Graph Neural Networks,,Narrow the Input Mismatch in Deep Graph Neural Network Distillation,,,,,
@@ -344,12 +344,12 @@ Research,,Fairness,,"SURE: Robust, Explainable, and Fair Classification without 
 Research,,Fairness,,Learning for Counterfactual Fairness from Observational Data,,,,,
 Research,,Fairness,,Online Fairness Auditing through Iterative Refinement,,,,,
 Research,,Fairness,,Towards Fair Disentangled Online Learning for Changing Environments,,,,,
-Research,,Recommendation with Graph,,Meta Graph Learning for Long-Tail Recommendation,,,,,
-Research,,Recommendation with Graph,,Graph Neural Bandits,,,,,
-Research,,Recommendation with Graph,,E-commerce Search via Content Collaborative Graph Neural Network,,,,,
-Research,,Recommendation with Graph,,Criteria Tell You More than Ratings: Criteria Preference-Aware Light Graph Convolution for Effective Multi-Criteria Recommendation,,,,,
-Research,,Recommendation with Graph,,Knowledge Graph Self-Supervised Rationalization for Recommendation,,,,,
-Research,,Recommendation with Graph,,On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based Graph Collaborative Filtering,,,,,
+Research,,Recommendation with Graph,,Meta Graph Learning for Long-Tail Recommendation,https://dl.acm.org/doi/pdf/10.1145/3580305.3599428,,https://www.youtube.com/watch?v=354oHUuI_O0,Alibaba Group,China
+Research,,Recommendation with Graph,,Graph Neural Bandits,https://arxiv.org/pdf/2207.06456.pdf,,,ETH Zurich,Switzerland
+Research,,Recommendation with Graph,,E-commerce Search via Content Collaborative Graph Neural Network,https://dl.acm.org/doi/pdf/10.1145/3580305.3599320,,https://www.youtube.com/watch?v=AttOef4lecg,Alibaba Group,China
+Research,,Recommendation with Graph,,Criteria Tell You More than Ratings: Criteria Preference-Aware Light Graph Convolution for Effective Multi-Criteria Recommendation,https://arxiv.org/pdf/2305.18885.pdf,,,Yonsei University,Korea
+Research,,Recommendation with Graph,,Knowledge Graph Self-Supervised Rationalization for Recommendation,https://arxiv.org/pdf/2307.02759.pdf,,https://www.youtube.com/watch?v=HVLc3Rij8U8,,China
+Research,,Recommendation with Graph,,On Manipulating Signals of User-Item Graph: A Jacobi Polynomial-based Graph Collaborative Filtering,https://arxiv.org/pdf/2306.03624.pdf,,,Microsoft Research Asia,China
 Research,,KDD for Security,,Towards Understanding and Enhancing Robustness of Deep Learning Models against Malicious Unlearning Attacks,,,,,
 Research,,KDD for Security,,Incremental Causal Graph Learning for Online Root Cause Analysis,,,,,
 Research,,KDD for Security,,Cracking White-Box DNN Watermarks via Invariant Neuron Transforms,,,,,
@@ -385,7 +385,7 @@ Research,,Reinforcement Learning,,HiMacMic: Hierarchical Multi-Agent Deep Reinfo
 Research,,Reinforcement Learning,,GAT-MF: Graph Attention Mean Field for Very Large Scale Multi-Agent Reinforcement Learning,,,,,
 Research,,Reinforcement Learning,,Skill Disentanglement for Imitation Learning from Suboptimal Demonstrations,,,,,
 Research,,Reinforcement Learning,,Internal Logical Induction for Pixel-Symbolic Reinforcement Learning,,,,,
-Research,,Reinforcement Learning,,Impatient Bandits: Optimizing Recommendations for the Long-Term Without Delay,,,,,
+Research,,Reinforcement Learning,,Impatient Bandits: Optimizing Recommendations for the Long-Term Without Delay,https://arxiv.org/pdf/2307.09943.pdf,,,Spotify,United Kingdom
 Research,,Reinforcement Learning,,Towards Variance Reduction for Reinforcement Learning of Industrial Decision-Making Tasks: A Bi-Critic based Demand-Constraint Decoupling Approach,,,,,
 Research,,KDD for Drug Discovery and Development,,Dual-view Molecular Pre-training,,,,,
 Research,,KDD for Drug Discovery and Development,,Shift-Robust Molecular Relational Learning with Causal Substructure,,,,,
@@ -402,15 +402,15 @@ Research,,Time Series II,,An Observed Value Consistent Diffusion Model for Imput
 Research,,Misinformation and Disinformation,,Preemptive Detection of Fake Accounts on Social Networks via Multi-Class Preferential Attachment Classifiers,,,,,
 Research,,Misinformation and Disinformation,,Rumor Detection with Diverse Counterfactual Evidence,,,,,
 Research,,Misinformation and Disinformation,,Adversaries with Limited Information in the Friedkin-Johnsen Model,,,,,
-Research,,Misinformation and Disinformation,,Shilling Black-Box Review-Based Recommender Systems through Fake Review Generation,,,,,
+Research,,Misinformation and Disinformation,,Shilling Black-Box Review-Based Recommender Systems through Fake Review Generation,https://arxiv.org/pdf/2306.16526.pdf,,https://www.youtube.com/watch?v=iJ0yfJkXMv0,,Taiwan
 Research,,Misinformation and Disinformation,,Maximizing Neutrality in News Ordering,,,,,
 Research,,Misinformation and Disinformation,,DECOR: Degree-Corrected Social Graph Refinement for Fake News Detection,,,,,
-Research,,Conversational AI,,Improving Conversational Recommendation Systems via Counterfactual Data Simulation,,,,,
+Research,,Conversational AI,,Improving Conversational Recommendation Systems via Counterfactual Data Simulation,https://arxiv.org/pdf/2306.02842.pdf,,https://www.youtube.com/watch?v=R6rEjOkaiCU,,China
 Research,,Conversational AI,,Improving Search Clarification with Structured Information Extracted from Search Results,,,,,
-Research,,Conversational AI,,LATTE: A Framework for Learning Item-Features to Make a Domain-Expert for Effective Conversational Recommendation,,,,,
+Research,,Conversational AI,,LATTE: A Framework for Learning Item-Features to Make a Domain-Expert for Effective Conversational Recommendation,https://dl.acm.org/doi/pdf/10.1145/3580305.3599401,,https://www.youtube.com/watch?v=r5vzdCSi2zw,,Korea
 Research,,Conversational AI,,Delving into Global Dialogue Structures: Structure Planning Augmented Response Selection for Multi-Turn Conversations,,,,,
 Research,,Conversational AI,,Learning to Relate to Previous Turns in Conversational Search,,,,,
-Research,,Conversational AI,,User-Regulation Deconfounded Conversational Recommender System with Bandit Feedback,,,,,
+Research,,Conversational AI,,User-Regulation Deconfounded Conversational Recommender System with Bandit Feedback,https://dl.acm.org/doi/pdf/10.1145/3580305.3599539,,https://www.youtube.com/watch?v=1dPwslX2fO8,Adobe Research,USA
 Research,,Out-of-Distribution,,Domain-Specific Risk Minimization for Domain Generalization,,,,,
 Research,,Out-of-Distribution,,Causal Inference via Style Transfer for Out-of-Distribution Generalisation,,,,,
 Research,,Out-of-Distribution,,FLOOD: A Flexible Invariant Learning Framework for Out-of-Distribution Generalization on Graphs,,,,,
@@ -422,12 +422,12 @@ Research,,Federated Learning & Distributed Learning II,,FedDefender: Client-Side
 Research,,Federated Learning & Distributed Learning II,,Serverless Federated AUPRC Optimization for Multi-Party Collaborative Imbalanced Data Mining,,,,,
 Research,,Federated Learning & Distributed Learning II,,Theoretical Convergence Guaranteed Resource-Adaptive Federated Learning with Mixed Heterogeneity,,,,,
 Research,,Federated Learning & Distributed Learning II,,ShapleyFL: Robust Federated Learning Based on Shapley Value,,,,,
-Research,,Responsible Recommendation,,Hierarchical Invariant Learning for Domain Generalization Recommendation,,,,,
-Research,,Responsible Recommendation,,UCEpic: Unifying Aspect Planning and Lexical Constraints for Generating Explanations in Recommendation,,,,,
-Research,,Responsible Recommendation,,Debiasing Recommendation by Learning Identifiable Latent Confounders,,,,,
-Research,,Responsible Recommendation,,Reconsidering Learning Objectives in Unbiased Recommendation: A Distribution Shift Perspective,,,,,
-Research,,Responsible Recommendation,,Who Should Be Given Incentives? Counterfactual Optimal Treatment Regimes Learning for Recommendation,,,,,
-Research,,Responsible Recommendation,,Unbiased Delayed Feedback Label Correction for Conversion Rate Prediction,,,,,
+Research,,Responsible Recommendation,,Hierarchical Invariant Learning for Domain Generalization Recommendation,https://arxiv.org/pdf/2101.09436.pdf,,https://www.youtube.com/watch?v=iZ_XhDWmS1s,Siemens AG,
+Research,,Responsible Recommendation,,UCEpic: Unifying Aspect Planning and Lexical Constraints for Generating Explanations in Recommendation,https://arxiv.org/pdf/2209.13885.pdf,,https://www.youtube.com/watch?v=IrH46E9Lqgc,"University of California, San Diego",USA
+Research,,Responsible Recommendation,,Debiasing Recommendation by Learning Identifiable Latent Confounders,https://arxiv.org/pdf/2302.05052.pdf,,https://www.youtube.com/watch?v=KiGDq9cJAHY,ByteDance Research,China
+Research,,Responsible Recommendation,,Reconsidering Learning Objectives in Unbiased Recommendation: A Distribution Shift Perspective,https://arxiv.org/pdf/2206.03851.pdf,,,,
+Research,,Responsible Recommendation,,Who Should Be Given Incentives? Counterfactual Optimal Treatment Regimes Learning for Recommendation,https://dl.acm.org/doi/pdf/10.1145/3580305.3599550,,,,China
+Research,,Responsible Recommendation,,Unbiased Delayed Feedback Label Correction for Conversion Rate Prediction,https://arxiv.org/pdf/2307.12756.pdf,,,Huawei Noah’s Ark Lab,China
 Research,,KDD for Finance,,Mastering Stock Markets with Efficient Mixture of Diversified Trading Experts,,,,,
 Research,,KDD for Finance,,Financial Default Prediction via Motif-Preserving Graph Neural Network with Curriculum Learning,,,,,
 Research,,KDD for Finance,,DoubleAdapt: A Meta-Learning Approach to Incremental Learning for Stock Trend Forecasting,,,,,
@@ -441,7 +441,7 @@ Research,,"User Modeling, Web and E-commerce",,Empowering General-purpose User R
 Research,,"User Modeling, Web and E-commerce",,Task Relation-aware Continual User Representation Learning,,,,,
 Research,,"User Modeling, Web and E-commerce",,Learning-Based Ad Auction Design with Externalities: The Framework and a Matching-Based Approach,,,,,
 Research,,Large Scale Data,,Locality Sensitive Hashing for Optimizing Subgraph Query Processing in Parallel Computing Systems,,,,,
-Research,,Large Scale Data,,Efficient Single-Source SimRank Query by Path Aggregation,,,,,
+Research,,Large Scale Data,,Efficient Single-Source SimRank Query by Path Aggregation,https://dl.acm.org/doi/pdf/10.1145/3580305.3599328,,https://www.youtube.com/watch?v=SqSopBxbrlg,,China
 Research,,Large Scale Data,,DotHash: Estimating Set Similarity Metrics for Link Prediction and Document Deduplication,,,,,
 Research,,Large Scale Data,,OPORP: One Permutation + One Random Projection,,,,,
 Research,,Large Scale Data,,Efficient Distributed Approximate k-Nearest Neighbor Graph Construction by Multiway Random Division Forest,,,,,
@@ -491,10 +491,10 @@ Research,,Dynamic Process,,Physics-Guided Discovery of Highly Nonlinear Parametr
 Research,,Dynamic Process,,Learning to Schedule in Diffusion Probabilistic Models,,,,,
 Research,,Dynamic Process,,Generalizing Graph ODE for Learning Complex System Dynamics across Environments,,,,,
 Research,,Dynamic Process,,Deep Bayesian Active Learning for Accelerating Stochastic Simulation,,,,,
-Research,,Privacy,,Feature-based Learning for Diverse and Privacy-Preserving Counterfactual Explanations,,,,,
+Research,,Privacy,Best Student Paper,Feature-based Learning for Diverse and Privacy-Preserving Counterfactual Explanations,,,,,
 Research,,Privacy,,Communication Efficient and Differentially Private Logistic Regression under the Distributed Setting,,,,,
 Research,,Privacy,,Unbiased Locally Private Estimator for Polynomials of Laplacian Variables,,,,,
-Research,,Privacy,,Privacy Matters: Vertical Federated Linear Contextual Bandits for Privacy Protected Recommendation,,,,,
+Research,,Privacy,,Privacy Matters: Vertical Federated Linear Contextual Bandits for Privacy Protected Recommendation,https://dl.acm.org/doi/pdf/10.1145/3580305.3599475,,https://www.youtube.com/watch?v=2SQ3HPbmP5I,Tencent AI Lab,China
 Research,,Privacy,,FedSkill: Privacy Preserved Interpretable Skill Learning via Imitation,,,,,
 Research,,Graph Contrastive Learning,,B2-Sampling: Fusing Balanced and Biased Sampling for Graph Contrastive Learning,,,,,
 Research,,Graph Contrastive Learning,,Similarity Preserving Adversarial Graph Contrastive Learning,,,,,
@@ -513,7 +513,7 @@ Research,,KDD for Science and Education,,IDToolkit: A Toolkit for Benchmarking a
 Research,,KDD for Science and Education,,GMOCAT: A Graph-Enhanced Multi-Objective Method for Computerized Adaptive Testing,,,,,
 Research,,KDD for Science and Education,,Semi-Supervised Graph Imbalanced Regression,,,,,
 Research,,KDD for Science and Education,,Weakly Supervised Multi-Label Classification of Full-Text Scientific Papers,,,,,
-Research,,KDD for Science and Education,,Meta Multi-Agent Exercise Recommendation: A Game Application Perspective,,,,,
+Research,,KDD for Science and Education,,Meta Multi-Agent Exercise Recommendation: A Game Application Perspective,https://dl.acm.org/doi/pdf/10.1145/3580305.3599429,,https://www.youtube.com/watch?v=Z4OWDeW5u2A,,China
 Research,,Urban Data II,,LightPath: Lightweight and Scalable Path Representation Learning,,,,,
 Research,,Urban Data II,,Urban Region Representation Learning with OpenStreetMap Building Footprints,,,,,
 Research,,Urban Data II,,Multi-Temporal Relationship Inference in Urban Areas,,,,,
