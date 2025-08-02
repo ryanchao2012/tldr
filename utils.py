@@ -141,6 +141,7 @@ def _file2json(pdf: str, outdir: str, overwrite: bool):
         for p, page in enumerate(doc):
             data = json.loads(page.get_text("json"))
             data["page_no"] = p
+            data["file_name"] = fname
 
             f.write(
                 json.dumps(
