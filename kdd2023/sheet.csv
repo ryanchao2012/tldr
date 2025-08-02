@@ -18,8 +18,8 @@ Workshop,AdKDD,Recommendation,,Towards the Better Ranking Consistency: A Multi-t
 Workshop,AdKDD,Recommendation,,Hierarchical Queries Optimization for the Attribution Reporting API,,,,,
 Workshop,AdKDD,Recommendation,,Practical Budget Pacing Algorithms and Simulation Test Bed for eBay Marketplace Sponsored Search,https://gligorijevic.science/wp-content/uploads/2023/06/nguyenAdKDD23.pdf,,,eBay Inc.,USA
 Workshop,AdKDD,Recommendation,,Private Ad Modeling with DP-SGD,https://arxiv.org/pdf/2211.11896.pdf,,,Google,USA
-Workshop,AdKDD,Recommendation,,Scaling Generative Pre-training for User Ad Activity Sequences,https://assets.amazon.science/b7/42/03be071743d5a57cb1656e6caa34/scaling-generative-pre-training-for-user-ad-activity-sequences.pdf,,,Amazon Ads,
-Workshop,EvalRS,Recommendation,,Realistic but Non-Identifiable Synthetic User Data Generation,https://reclist.io/kdd2023-cup/papers/EVALRS2023_paper_1.pdf,,,Google Research,
+Workshop,AdKDD,Recommendation,,Scaling Generative Pre-training for User Ad Activity Sequences,https://assets.amazon.science/b7/42/03be071743d5a57cb1656e6caa34/scaling-generative-pre-training-for-user-ad-activity-sequences.pdf,,,Amazon Ads,USA
+Workshop,EvalRS,Recommendation,,Realistic but Non-Identifiable Synthetic User Data Generation,https://reclist.io/kdd2023-cup/papers/EVALRS2023_paper_1.pdf,,,Google Research,USA
 Workshop,EvalRS,Recommendation,,Disentangling the Performance Puzzle of Multimodal-aware Recommender Systems,https://reclist.io/kdd2023-cup/papers/EVALRS2023_paper_2.pdf,,,,
 Workshop,EvalRS,Recommendation,,Bridging Offline-Online Evaluation with a Time-dependent and Popularity Bias-free Offline Metric for Recommenders,https://reclist.io/kdd2023-cup/papers/EVALRS2023_paper_3.pdf,,,,
 Workshop,EvalRS,Recommendation,,Evaluating Recommendation Systems Using the Power of Embeddings,https://reclist.io/kdd2023-cup/papers/EVALRS2023_paper_4.pdf,,,,
@@ -45,12 +45,12 @@ ADS,,Multi-Scenario and Multi-Task,,AdaTT: Adaptive Task-to-Task Fusion Network 
 ADS,,Multi-Scenario and Multi-Task,,Macular: a Multi-Task Adversarial Framework for Cross-Lingual Natural Language Understanding,,,,,
 ADS,,Multi-Scenario and Multi-Task,,SAMD: An Industrial Framework for Heterogeneous Multi-Scenario Recommendation,,,https://www.youtube.com/watch?v=rDbMBTk3BQw,Ant Group,China
 ADS,,Multi-Scenario and Multi-Task,,NEON: Living Needs Prediction System in Meituan,https://arxiv.org/pdf/2307.16644.pdf,,,Meituan,China
-ADS,,Search and Information Retrieval,,Multi-Label Learning to Rank through Multi-Objective Optimization,https://arxiv.org/pdf/2207.03060.pdf,,,Amazon.com Inc,
+ADS,,Search and Information Retrieval,,Multi-Label Learning to Rank through Multi-Objective Optimization,https://arxiv.org/pdf/2207.03060.pdf,,,Amazon.com Inc,USA
 ADS,,Search and Information Retrieval,,PDAS: A Practical Distributed ADMM System for Large-Scale Linear Programming Problems at Alipay,https://dl.acm.org/doi/pdf/10.1145/3580305.3599883,,,Ant Group,China
-ADS,,Search and Information Retrieval,,Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies,https://arxiv.org/pdf/2305.15115.pdf,,,Baidu Inc,
+ADS,,Search and Information Retrieval,,Semantic-Enhanced Differentiable Search Index Inspired by Learning Strategies,https://arxiv.org/pdf/2305.15115.pdf,,,Baidu Inc,China
 ADS,,Search and Information Retrieval,,Rewiring Police Officer Training Networks to Reduce Forecasted Use of Force,,,,,
-ADS,,Search and Information Retrieval,,Learning Discrete Document Representations in Web Search,,,https://www.youtube.com/watch?v=KV8ERmtZtkw,Baidu Inc,
-ADS,,Search and Information Retrieval,,Learning to Discover Various Simpson’s Paradoxes,,,https://www.youtube.com/watch?v=zJbWxlQ4lyU,Ant Group,
+ADS,,Search and Information Retrieval,,Learning Discrete Document Representations in Web Search,,,https://www.youtube.com/watch?v=KV8ERmtZtkw,Baidu Inc,China
+ADS,,Search and Information Retrieval,,Learning to Discover Various Simpson’s Paradoxes,,,https://www.youtube.com/watch?v=zJbWxlQ4lyU,Ant Group,China
 ADS,,Search and Information Retrieval,,WebGLM: Towards an Efficient Web-Enhanced Question Answering System with Human Preference,https://arxiv.org/pdf/2306.07906.pdf,,,,China
 ADS,,Transportation I,,CBLab: Supporting the Training of Large-Scale Traffic Control Policies with Scalable Traffic Simulation,,,,,
 ADS,,Transportation I,,M3PT: A Multi-Modal Model for POI Tagging,https://arxiv.org/pdf/2306.10079.pdf,,,Alibaba Group,China
@@ -88,8 +88,8 @@ ADS,,Graph Learning III,,Removing Camouflage and Revealing Collusion: Leveraging
 ADS,,Graph Learning III,,Detecting Vulnerable Nodes in Urban Infrastructure Interdependent Network,,,,,
 ADS,,Graph Learning III,,Graph Learning in Physical-Informed Mesh-Reduced Space for Real-World Dynamic Systems,,,,,
 ADS,,Graph Learning III,,A Multi-Stage Framework for Online Bonus Allocation Based on Constrained User Intent Detection,https://dl.acm.org/doi/pdf/10.1145/3580305.3599764,,,Meituan Group,China
-ADS,,Graph Learning III,,Knowledge Based Prohibited Item Detection on Heterogeneous Risk Graphs,,,https://www.youtube.com/watch?v=9z4ZED3HTas,Alibaba Group,
-ADS,,Personalization,,A Personalized Automated Bidding Framework for Fairness-Aware Online Advertising,https://dl.acm.org/doi/pdf/10.1145/3580305.3599765,,https://www.youtube.com/watch?v=uOrqHngy2eY,Alibaba Group,
+ADS,,Graph Learning III,,Knowledge Based Prohibited Item Detection on Heterogeneous Risk Graphs,,,https://www.youtube.com/watch?v=9z4ZED3HTas,Alibaba Group,China
+ADS,,Personalization,,A Personalized Automated Bidding Framework for Fairness-Aware Online Advertising,https://dl.acm.org/doi/pdf/10.1145/3580305.3599765,,https://www.youtube.com/watch?v=uOrqHngy2eY,Alibaba Group,China
 ADS,,Personalization,,A Feature-Based Coalition Game Framework with Privileged Knowledge Transfer for User-Tag Profile Modeling,,,,,
 ADS,,Personalization,,PASS: Personalized Advertiser-Aware Sponsored Search,,,,,
 ADS,,Personalization,,PlanRanker: Towards Personalized Ranking of Train Transfer Plans,https://dl.acm.org/doi/pdf/10.1145/3580305.3599887,,https://www.youtube.com/watch?v=rBLRaEFmbhA,Alibaba Group,China
@@ -103,12 +103,12 @@ ADS,,Social Media,,Analysis of COVID-19 Offensive Tweets and Their Targets,,,,,
 ADS,,Social Media,,SMILE: Evaluation and Domain Adaptation for Social Media Language Understanding,,,,,
 ADS,,Social Media,,Constrained Social Community Recommendation,https://dl.acm.org/doi/pdf/10.1145/3580305.3599793,,,Tencent,China
 ADS,,Advertising I,,Off-Policy Learning-to-Bid with AuctionGym,,,https://www.youtube.com/watch?v=YK0SELxAWeo,Amazon,UK
-ADS,,Advertising I,,Multi-Factor Sequential Re-Ranking with Perception-Aware Diversification,https://arxiv.org/pdf/2305.12420.pdf,,,Alibaba Group,
-ADS,,Advertising I,,Joint Optimization of Ranking and Calibration with Contextualized Hybrid Model,https://arxiv.org/pdf/2208.06164.pdf,,,Alibaba Group,
-ADS,,Advertising I,,Capturing Conversion Rate Fluctuation during Sales Promotions: A Novel Historical Data Reuse Approach,https://arxiv.org/pdf/2305.12837.pdf,,,Alibaba Group,
-ADS,,Advertising I,,RLTP: Reinforcement Learning to Pace for Delayed Impression Modeling in Preloaded Ads,https://arxiv.org/pdf/2302.02592.pdf,,,Alibaba Group,
-ADS,,Advertising I,,TWIN: Two-Stage Interest Network for Lifelong User Behavior Modeling in CTR Prediction at Kuaishou,https://arxiv.org/pdf/2302.02352.pdf,,,Kuaishou Technology,
-ADS,,Advertising I,,Towards Fairness in Personalized Ads Using Impression Variance aware Reinforcement Learning,https://arxiv.org/pdf/2306.03293.pdf,,,Meta,
+ADS,,Advertising I,,Multi-Factor Sequential Re-Ranking with Perception-Aware Diversification,https://arxiv.org/pdf/2305.12420.pdf,,,Alibaba Group,China
+ADS,,Advertising I,,Joint Optimization of Ranking and Calibration with Contextualized Hybrid Model,https://arxiv.org/pdf/2208.06164.pdf,,,Alibaba Group,China
+ADS,,Advertising I,,Capturing Conversion Rate Fluctuation during Sales Promotions: A Novel Historical Data Reuse Approach,https://arxiv.org/pdf/2305.12837.pdf,,,Alibaba Group,China
+ADS,,Advertising I,,RLTP: Reinforcement Learning to Pace for Delayed Impression Modeling in Preloaded Ads,https://arxiv.org/pdf/2302.02592.pdf,,,Alibaba Group,China
+ADS,,Advertising I,,TWIN: Two-Stage Interest Network for Lifelong User Behavior Modeling in CTR Prediction at Kuaishou,https://arxiv.org/pdf/2302.02352.pdf,,,Kuaishou Technology,China
+ADS,,Advertising I,,Towards Fairness in Personalized Ads Using Impression Variance aware Reinforcement Learning,https://arxiv.org/pdf/2306.03293.pdf,,,Meta,USA
 ADS,,Health Care and Medicine,,Multimodal Indoor Localisation in Parkinson’s Disease for Detecting Medication Use: Observational Pilot Study in a Free-Living Setting,,,,,
 ADS,,Health Care and Medicine,,Doctor Specific Tag Recommendation for Online Medical Record Management,,,,,
 ADS,,Health Care and Medicine,,Expert Knowledge-Aware Image Difference Graph Representation Learning for Difference-Aware Medical Visual Question Answering,,,,,
@@ -116,31 +116,31 @@ ADS,,Health Care and Medicine,,Assisting Clinical Decisions for Scarcely Availab
 ADS,,Health Care and Medicine,,Identifying Complicated Contagion Scenarios from Cascade Data,,,,,
 ADS,,Health Care and Medicine,,The Missing Indicator Method: From Low to High Dimensions,,,,,
 ADS,,Health Care and Medicine,,Towards Suicide Prevention from Bipolar Disorder with Temporal Symptom-Aware Multitask Learning,,,,,
-ADS,,Recommendation Systems I,,Controllable Multi-Objective Re-ranking with Policy Hypernetworks,https://arxiv.org/pdf/2306.05118.pdf,,,Alibaba Group,
+ADS,,Recommendation Systems I,,Controllable Multi-Objective Re-ranking with Policy Hypernetworks,https://arxiv.org/pdf/2306.05118.pdf,,,Alibaba Group,China
 ADS,,Recommendation Systems I,,M5: Multi-Modal Multi-Interest Multi-Scenario Matching for Over-the-Top Recommendation,https://dl.acm.org/doi/pdf/10.1145/3580305.3599863,,,Hulu Beijing,China
-ADS,,Recommendation Systems I,,CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation,https://arxiv.org/pdf/2112.06668.pdf,,,Tencent Inc.,
-ADS,,Recommendation Systems I,,Multi-Channel Integrated Recommendation with Exposure Constraints,https://arxiv.org/pdf/2305.12319.pdf,,,Alibaba Group.,
-ADS,,Recommendation Systems I,,Graph-Based Model-Agnostic Data Subsampling for Recommendation Systems,https://arxiv.org/pdf/2305.16391.pdf,,,ByteDance,
-ADS,,Recommendation Systems I,,On-Device Integrated Re-Ranking with Heterogeneous Behavior Modeling,https://dl.acm.org/doi/pdf/10.1145/3580305.3599878,,https://www.youtube.com/watch?v=1UirlORuWgo,Huawei Noah’s Ark Lab,
+ADS,,Recommendation Systems I,,CT4Rec: Simple yet Effective Consistency Training for Sequential Recommendation,https://arxiv.org/pdf/2112.06668.pdf,,,Tencent Inc.,China
+ADS,,Recommendation Systems I,,Multi-Channel Integrated Recommendation with Exposure Constraints,https://arxiv.org/pdf/2305.12319.pdf,,,Alibaba Group.,China
+ADS,,Recommendation Systems I,,Graph-Based Model-Agnostic Data Subsampling for Recommendation Systems,https://arxiv.org/pdf/2305.16391.pdf,,,ByteDance,China
+ADS,,Recommendation Systems I,,On-Device Integrated Re-Ranking with Heterogeneous Behavior Modeling,https://dl.acm.org/doi/pdf/10.1145/3580305.3599878,,https://www.youtube.com/watch?v=1UirlORuWgo,Huawei Noah’s Ark Lab,China
 ADS,,Advertising II,,AdSEE: Investigating the Impact of Image Style Editing on Advertisement Attractiveness,,,,,
-ADS,,Advertising II,,An Empirical Study of Selection Bias in Pinterest Ads Retrieval,https://dl.acm.org/doi/pdf/10.1145/3580305.3599771,,,Pinterest,
-ADS,,Advertising II,,Deep Landscape Forecasting in Multi-Slot Real-Time Bidding,https://dl.acm.org/doi/pdf/10.1145/3580305.3599799,,https://www.youtube.com/watch?v=TsAH4947gjM,Huawei Noah’s Ark Lab,
-ADS,,Advertising II,,Extreme Multi-Label Classification for Ad Targeting using Factorization Machines,https://gligorijevic.science/wp-content/uploads/2023/06/pavlovskiKDD23.pdf,,https://www.youtube.com/watch?v=SLnMLIxJzWM,Yahoo Research,
-ADS,,Advertising II,,A Collaborative Transfer Learning Framework for Cross-Domain Recommendation,https://arxiv.org/pdf/2306.16425.pdf,,,Meituan,
-ADS,,Advertising II,,ReLoop2: Building Self-Adaptive Recommendation Models via Responsive Error Compensation Loop,https://arxiv.org/pdf/2306.08808.pdf,,,Huawei Noah’s Ark Lab,
-ADS,,Language Models I,,BERT4CTR: An Efficient Framework to Combine Pre-trained Language Model with Non-Textual Features for CTR Prediction,https://dl.acm.org/doi/pdf/10.1145/3580305.3599780,,https://www.youtube.com/watch?v=26xYd3QDYEQ,"STCA, Microsoft Corporation",
+ADS,,Advertising II,,An Empirical Study of Selection Bias in Pinterest Ads Retrieval,https://dl.acm.org/doi/pdf/10.1145/3580305.3599771,,,Pinterest,USA
+ADS,,Advertising II,,Deep Landscape Forecasting in Multi-Slot Real-Time Bidding,https://dl.acm.org/doi/pdf/10.1145/3580305.3599799,,https://www.youtube.com/watch?v=TsAH4947gjM,Huawei Noah’s Ark Lab,China
+ADS,,Advertising II,,Extreme Multi-Label Classification for Ad Targeting using Factorization Machines,https://gligorijevic.science/wp-content/uploads/2023/06/pavlovskiKDD23.pdf,,https://www.youtube.com/watch?v=SLnMLIxJzWM,Yahoo Research,USA
+ADS,,Advertising II,,A Collaborative Transfer Learning Framework for Cross-Domain Recommendation,https://arxiv.org/pdf/2306.16425.pdf,,,Meituan,China
+ADS,,Advertising II,,ReLoop2: Building Self-Adaptive Recommendation Models via Responsive Error Compensation Loop,https://arxiv.org/pdf/2306.08808.pdf,,,Huawei Noah’s Ark Lab,China
+ADS,,Language Models I,,BERT4CTR: An Efficient Framework to Combine Pre-trained Language Model with Non-Textual Features for CTR Prediction,https://dl.acm.org/doi/pdf/10.1145/3580305.3599780,,https://www.youtube.com/watch?v=26xYd3QDYEQ,"STCA, Microsoft Corporation",China
 ADS,,Language Models I,,QUERT: Continual Pre-training of Language Model for Query Understanding in Travel Domain Search,,,,,
 ADS,,Language Models I,,GLM-Dialog: Noise-tolerant Pre-Training for Knowledge-Grounded Dialogue Generation,,,,,
 ADS,,Language Models I,,JiuZhang 2.0: A Unified Chinese Pre-trained Language Model for Multi-task Mathematical Problem Solving,,,,,
 ADS,,Language Models I,,From Human Days to Machine Seconds: Automatically Answering and Generating Machine Learning Final Exams,,,,,
 ADS,,Language Models I,,Graph-Aware Language Model Pre-Training on a Large Graph Corpus Can Help Multiple Graph Applications,,,,,
-ADS,,Recommendation Systems II,,Variance Reduction Using In-Experiment Data: Efficient and Targeted Online Measurement for Sparse and Delayed Outcomes,https://dl.acm.org/doi/pdf/10.1145/3580305.3599928,,,Airbnb,
-ADS,,Recommendation Systems II,,Fresh Content Needs More Attention: Multi-Funnel Fresh Content Recommendation,https://arxiv.org/pdf/2306.01720.pdf,,https://www.youtube.com/watch?v=JF1COzfSiLs,Google,
-ADS,,Recommendation Systems II,,VRDU: A Benchmark for Visually-Rich Document Understanding,https://arxiv.org/pdf/2211.15421.pdf,,https://www.youtube.com/watch?v=BLUWuo-at5o,Google,
-ADS,,Recommendation Systems II,,PGLBox: Multi-GPU Graph Learning Framework for Web-Scale Recommendation,,,https://www.youtube.com/watch?v=LClNDNnNA7g,Baidu Inc.,
+ADS,,Recommendation Systems II,,Variance Reduction Using In-Experiment Data: Efficient and Targeted Online Measurement for Sparse and Delayed Outcomes,https://dl.acm.org/doi/pdf/10.1145/3580305.3599928,,,Airbnb,USA
+ADS,,Recommendation Systems II,,Fresh Content Needs More Attention: Multi-Funnel Fresh Content Recommendation,https://arxiv.org/pdf/2306.01720.pdf,,https://www.youtube.com/watch?v=JF1COzfSiLs,Google,USA
+ADS,,Recommendation Systems II,,VRDU: A Benchmark for Visually-Rich Document Understanding,https://arxiv.org/pdf/2211.15421.pdf,,https://www.youtube.com/watch?v=BLUWuo-at5o,Google,USA
+ADS,,Recommendation Systems II,,PGLBox: Multi-GPU Graph Learning Framework for Web-Scale Recommendation,,,https://www.youtube.com/watch?v=LClNDNnNA7g,Baidu Inc.,China
 ADS,,Recommendation Systems II,,Counterfactual Video Recommendation for Duration Debiasing,https://dl.acm.org/doi/pdf/10.1145/3580305.3599797,,,,
-ADS,,Recommendation Systems II,,Exploiting Intent Evolution in E-commercial Query Recommendation,https://assets.amazon.science/73/1b/ed83221c4ba7914b93a8af32fb0d/exploiting-intent-evolution-in-e-commercial-query-recommendation.pdf,,https://www.youtube.com/watch?v=WEF2Cppz4L0,Amazon,
-ADS,,Recommendation Systems II,,Workplace Recommendation with Temporal Network Objectives,https://dl.acm.org/doi/pdf/10.1145/3580305.3599932,,https://www.youtube.com/watch?v=5OWlKb81NlE,Microsoft,
+ADS,,Recommendation Systems II,,Exploiting Intent Evolution in E-commercial Query Recommendation,https://assets.amazon.science/73/1b/ed83221c4ba7914b93a8af32fb0d/exploiting-intent-evolution-in-e-commercial-query-recommendation.pdf,,https://www.youtube.com/watch?v=WEF2Cppz4L0,Amazon,USA
+ADS,,Recommendation Systems II,,Workplace Recommendation with Temporal Network Objectives,https://dl.acm.org/doi/pdf/10.1145/3580305.3599932,,https://www.youtube.com/watch?v=5OWlKb81NlE,Microsoft,USA
 ADS,,Big Data and Machine Learning,,Stabilising Job Survival Analysis for Disability Employment Services in Unseen Environments,,,,,
 ADS,,Big Data and Machine Learning,,Influence Maximization with Fairness at Scale,,,,,
 ADS,,Big Data and Machine Learning,,Rover: An Online Spark SQL Tuning Service via Generalized Transfer Learning,,,,,
@@ -154,12 +154,12 @@ ADS,,Language Models II,,RecruitPro: A Pretrained Language Model with Skill-Awar
 ADS,,Language Models II,,Binary Classifier Evaluation on Unlabeled Segments using Inverse Distance Weighting with Distance Learning,,,,,
 ADS,,Language Models II,,Revisiting Hate Speech Benchmarks: From Data Curation to System Deployment,,,,,
 ADS,,Language Models II,,CodeGeeX: A Pre-Trained Model for Code Generation with Multilingual Benchmarking on HumanEval-X,,,,,
-ADS,,Recommendation Systems III,,"A Lightweight, Efficient and Explainable-by-Design Convolutional Neural Network for Internet Traffic Classification",https://arxiv.org/pdf/2202.05535.pdf,,,"Huawei Technologies Co., Ltd",
+ADS,,Recommendation Systems III,,"A Lightweight, Efficient and Explainable-by-Design Convolutional Neural Network for Internet Traffic Classification",https://arxiv.org/pdf/2202.05535.pdf,,,"Huawei Technologies Co., Ltd",China
 ADS,,Recommendation Systems III,,Modeling Dual Period-Varying Preferences for Takeaway Recommendation,https://arxiv.org/pdf/2306.04370.pdf,,https://www.youtube.com/watch?v=MOP0dPiepQ0,,
-ADS,,Recommendation Systems III,,SentiGOLD: A Large Bangla Gold Standard Multi-Domain Sentiment Analysis Dataset and its Evaluation,https://arxiv.org/pdf/2306.06147.pdf,,https://www.youtube.com/watch?v=fVDIl42s2hQ,Giga Tech Limited,
-ADS,,Recommendation Systems III,,Empowering Long-Tail Item Recommendation through Cross Decoupling Network,https://arxiv.org/pdf/2210.14309.pdf,,https://www.youtube.com/watch?v=VIowKhao1q0,Google Research,
+ADS,,Recommendation Systems III,,SentiGOLD: A Large Bangla Gold Standard Multi-Domain Sentiment Analysis Dataset and its Evaluation,https://arxiv.org/pdf/2306.06147.pdf,,https://www.youtube.com/watch?v=fVDIl42s2hQ,Giga Tech Limited,Bangladesh
+ADS,,Recommendation Systems III,,Empowering Long-Tail Item Recommendation through Cross Decoupling Network,https://arxiv.org/pdf/2210.14309.pdf,,https://www.youtube.com/watch?v=VIowKhao1q0,Google Research,USA
 ADS,,Recommendation Systems III,,Stationary Algorithmic Balancing Over Dynamic Email Re-Ranking Problem,https://arxiv.org/pdf/2308.08460.pdf,,,Microsoft Research,USA
-ADS,,Recommendation Systems III,,Revisiting Neural Retrieval on Accelerators,https://arxiv.org/pdf/2306.04039.pdf,,https://www.youtube.com/watch?v=BV2O4WmZtac,"Meta Platforms, Inc",
+ADS,,Recommendation Systems III,,Revisiting Neural Retrieval on Accelerators,https://arxiv.org/pdf/2306.04039.pdf,,https://www.youtube.com/watch?v=BV2O4WmZtac,"Meta Platforms, Inc",USA
 ADS,,E-Commerce,,Group-based Fraud Detection Network on E-Commerce Platforms,,,,,
 ADS,,E-Commerce,,CADENCE: Offline Category Constrained and Diverse Query Generation for E-Commerce Autosuggest,,,,,
 ADS,,E-Commerce,,Modelling Delayed Redemption with Importance Sampling and Pre-Redemption Engagement,,,,,
@@ -172,7 +172,7 @@ ADS,,Manufacturing,,Online Quality Prediction in Windshield Manufacturing using 
 ADS,,Manufacturing,,Learning to Solve Grouped 2D Bin Packing Problems in the Manufacturing Industry,,,,,
 ADS,,Manufacturing,,Multi Datasource LTV User Representation,,,,,
 ADS,,Manufacturing,,Interactive Generalized Additive Model and Its Applications in Electric Load Forecasting,,,,,
-ADS,,Recommendation Systems IV,,Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection,https://dl.acm.org/doi/pdf/10.1145/3580305.3599795,,https://www.youtube.com/watch?v=pLuQ3zE5hv0,,
+ADS,,Recommendation Systems IV,,Contrastive Learning of Stress-specific Word Embedding for Social Media based Stress Detection,https://dl.acm.org/doi/pdf/10.1145/3580305.3599795,,https://www.youtube.com/watch?v=pLuQ3zE5hv0,,China
 ADS,,Recommendation Systems IV,,Fusing Multimodal Signals on Hyper-Complex Space for Extreme Abstractive Text Summarization of Scientific Contents,https://dl.acm.org/doi/pdf/10.1145/3580305.3599830,,,,India
 ADS,,Recommendation Systems IV,,Adaptive Graph Contrastive Learning for Recommendation,https://arxiv.org/pdf/2305.10837.pdf,,,,
 ADS,,Recommendation Systems IV,,BOSS: A Bilateral Occupational-Suitability-Aware Recommender System for Online Recruitment,https://dl.acm.org/doi/pdf/10.1145/3580305.3599783,,https://www.youtube.com/watch?v=0NaQEG-1KEw,BOSS Zhipin,China
