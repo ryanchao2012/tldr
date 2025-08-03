@@ -3,9 +3,8 @@ name = "tldr"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-authors = [
-    { name = "ryanchao2012", email = "ryanchao2012@gmail.com" }
-]
+authors = [{ name = "ryanchao2012", email = "ryanchao2012@gmail.com" }]
+license = { file = "LICENSE" }
 requires-python = ">=3.11"
 dependencies = [
     "click>=8.2.2",
@@ -17,11 +16,7 @@ dependencies = [
 ]
 
 [project.optional-dependencies]
-data = [
-    "nbformat>=5.10.4",
-    "plotly>=6.2.0",
-    "pyspark<3.5",
-]
+data = ["nbformat>=5.10.4", "plotly>=6.2.0", "pyspark<3.5"]
 
 [project.scripts]
 tldr = "tldr:main"
@@ -29,4 +24,3 @@ tldr = "tldr:main"
 [build-system]
 requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
-
